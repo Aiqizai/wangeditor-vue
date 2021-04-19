@@ -1,24 +1,7 @@
 # wang-editor-vue
-
-## Project setup
+## wangEditor —— 轻量级 web 富文本编辑器，配置方便，使用简单。
 ```
-npm install
+官网：www.wangEditor.com
+文档：doc.wangEditor.com
+源码：github.com/wangeditor-team/wangEditor （欢迎 star）
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
