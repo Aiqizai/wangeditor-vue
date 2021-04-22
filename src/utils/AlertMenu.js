@@ -1,5 +1,5 @@
 /* 
-  新增自定义菜单
+  新增自定义button菜单
 */
 
 import E from 'wangeditor' // npm 安装
